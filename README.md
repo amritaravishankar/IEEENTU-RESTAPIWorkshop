@@ -1,4 +1,4 @@
-# REST APIs
+# 📲 REST APIs
 
 An Introductory Workshop for IEEE NTU on REST APIs. This workshop features a hands on approach to learning the basics of REST APIs. You will learn about what a REST API is, REST API methods, how to call a REST API and make your very own rest APIs. Familiarity with JavaScript, JSON, and the command line interface will aid you in this workshop.
 
